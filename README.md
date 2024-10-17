@@ -2,7 +2,7 @@
 This repository has Data Science projects that I work on 
 
 Day1: October 17,2024
-Project 1:** Investigation of the Netflix Movie Data**
+Project 1:**Investigation of the Netflix Movie Data**
 #Exploratory Data Analysis
 
 Input Dataset: netflix_data.csv
